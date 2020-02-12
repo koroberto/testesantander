@@ -1,0 +1,6 @@
+Testando o modo de inserção.
+
+ls, vejo o que tem;
+cd, navego;
+vim, editor de texto;
+
