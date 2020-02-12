@@ -3,5 +3,6 @@ Testando o modo de inserção.
 ls, vejo o que tem;
 cd, navego;
 vim, editor de texto;
-
+pwd, mostra o diretório atual;
+mkdir, cria um novo diretório;
 Texto
