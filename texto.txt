@@ -4,3 +4,4 @@ ls, vejo o que tem;
 cd, navego;
 vim, editor de texto;
 
+Texto
